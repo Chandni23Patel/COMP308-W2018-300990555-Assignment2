@@ -14,7 +14,9 @@ export class AuthService {
 
   //private endpoint = 'https://comp308-w2019-lesson10a.herokuapp.com/api/';
 
-  private endpoint = 'http://localhost:3000/api/';
+  //private endpoint = 'http://localhost:3000/api/';
+
+  private endpoint = 'http://chandnipatel-assignmnet2.herokuapp.com/api';
 
   private httpOptions = {
     headers: new HttpHeaders({
