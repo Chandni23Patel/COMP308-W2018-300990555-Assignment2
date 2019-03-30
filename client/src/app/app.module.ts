@@ -1,3 +1,9 @@
+/*
+    File name: app.module.ts
+    Student name: Chandni Patel
+    Student ID: 300990555
+    Date: Febuary 30, 2019
+*/
 // modules
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';

@@ -1,3 +1,10 @@
+/*
+    File name: app-routing.module.ts (defining routes)
+    Student name: Chandni Patel
+    Student ID: 300990555
+    Date: Febuary 30, 2019
+*/
+
 // modules
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
